@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 BackEnd Engineer || Django<br>🔭 I’m currently studying at faculty of computer and information science Mansoura university.<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently have experience in Backend Development<br>📫 How to reach me omar.raouf.002@gmail.com<br>💬 Ask me about Django ,python<br>⚡ Fun fact I have a passion for video games
+# 🚀 BackEnd Engineer || Django<br>
+🔭 I’m currently studying at faculty of computer and information science Mansoura university.<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently have experience in Backend Development<br>📫 How to reach me omar.raouf.002@gmail.com<br>💬 Ask me about Django ,python<br>⚡ Fun fact I have a passion for video games
 
 
 ## 🌐 Socials:
