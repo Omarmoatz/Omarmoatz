@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Omarmoatz&icon=2&color=2)](https://visitcount.itsvg.in)
+
 # 🚀 BackEnd Engineer || Django<br>
 🔭 I’m currently studying at faculty of computer and information science Mansoura university.<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently have experience in Backend Development<br>📫 How to reach me omar.raouf.002@gmail.com<br>💬 Ask me about Django ,python<br>⚡ Fun fact I have a passion for video games
 
@@ -18,13 +20,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarmoatz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Omarmoatz&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Omarmoatz&icon=2&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
