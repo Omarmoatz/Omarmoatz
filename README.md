@@ -1,8 +1,14 @@
-### Hi there, I'm Omar
+### Hi there👋, I'm Omar
 ![](https://komarev.com/ghpvc/?username=Omarmoatz&style=for-the-badge)
 
 # 🚀 A BackEnd Django Engineer <br>
-- 🔭 I’m currently studying at faculty of computer and information science Mansoura university.<br>- 🔭 I’m currently working on [Ecommerce-Django-Rest-API](https://github.com/Omarmoatz/Ecommerce-Django-Rest-API)<br>- 👯 I’m looking to collaborate with other developers<br>- 🌱 I’m currently have experience in Backend Development<br>- 📫 How to reach me omar.raouf.002@gmail.com<br>- 💬 Ask me about Django ,python<br>- ⚡ Fun fact I have a passion for bodybuilding , video games
+- 🔭 I’m currently studying at faculty of computer and information science Mansoura university.<br>
+- 🔭 I’m currently working on [Ecommerce-Django-Rest-API](https://github.com/Omarmoatz/Ecommerce-Django-Rest-API)<br>
+- 👯 I’m looking to collaborate with other developers<br>
+- 🌱 I’m currently have experience in Backend Development<br>
+- 📫 How to reach me omar.raouf.002@gmail.com<br>
+- 💬 Ask me about Django ,python<br>
+- ⚡ Fun fact I have a passion for bodybuilding , video games
 <br />
 
 # 💻 Tech Stack:
@@ -60,12 +66,8 @@
 </p>
 
 <br />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarmoatz&" alt="omarmoatz" /></p>
 <br />
 
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
-
 ###
-
-
