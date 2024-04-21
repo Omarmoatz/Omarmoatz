@@ -1,7 +1,7 @@
 ### Hi there👋, I'm Omar
 ![](https://komarev.com/ghpvc/?username=Omarmoatz&style=for-the-badge)
 
-# 🚀 A BackEnd Django Engineer <br>
+# 🚀 Python Developer <br>
 - 🔭 I’m currently studying at faculty of computer and information science Mansoura university.<br>
 - 🔭 I’m currently working on [Ecommerce-Django-Rest-API](https://github.com/Omarmoatz/Ecommerce-Django-Rest-API)<br>
 - 👯 I’m looking to collaborate with other developers<br>
