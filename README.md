@@ -9,6 +9,7 @@
 - 📫 How to reach me omar.raouf.002@gmail.com<br>
 - 💬 Ask me about Django ,python<br>
 - ⚡ Fun fact I have a passion for bodybuilding , video games
+- 👯 Here Is [My Resume](https://drive.google.com/file/d/1FJDh_mW1ZdzBK95nuCEAj1OgN_aRokYe/view?usp=sharing)
 <br />
 
 # 💻 Tech Stack:
